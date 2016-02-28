@@ -20,39 +20,6 @@ And, last - but not least: Pype is powered by the [Yii Framework](http://www.yii
 
 ----------------------------------
 
-Wikilink : [[section|The Section]]
-
-Wikilink syntax (title is optional) :
-~~~
-[[link|Title]]
-~~~
-
-Non-existing wikilink : [[I-do-not-exist]]
-
-Feed : [RSS](/rss)
-
-~~~
-<?= "code here"; ?>
-~~~
-
-Some more code:
-
-```php
-        foreach($crumbs as $crumb) {
-            $page = $repo->query()->where('url', '==', $crumb)->execute();
-            $result = $page->first();
-            if($result != null) {
-                if($result->url == $crumbs[count($page_parts)-1]) {
-                    Yii::$app->view->params['breadcrumbs'][] = array('label' => $result->title);
-                } else {
-                    Yii::$app->view->params['breadcrumbs'][] = array('label' => $result->title, 'url' => Url::to(array('page/view', 'id' => $result->url)));
-                }
-            } else {
-                Yii::$app->view->params['breadcrumbs'][] = array('label' => $crumb, 'class' => 'disabled');
-            }
-        }
-```
-
 This project is still in the early phase.
 
 Check out the project at Github: [github.com/jacmoe/pype](https://github.com/jacmoe/pype)
