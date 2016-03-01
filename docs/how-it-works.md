@@ -12,3 +12,13 @@ Workflow here..
 (clearfix:)
 
 (lightbox:Mthaml source:mthaml/mthaml_mobile.png target:mthaml/mthaml.png)
+
+```
+(lightbox:Mthaml source:mthaml/mthaml_mobile.png target:mthaml/mthaml.png)
+```
+
+(inimage:Mthaml source:mthaml/mthaml_custom.png)
+
+```
+(inimage:Mthaml source:mthaml/mthaml_custom.png)
+```
