@@ -6,7 +6,7 @@ Keywords: wiki, yii, pype, markdown, static, flat-file
 # Pype - Personal Yii Page Engine
 
 
-![Pype](/images/pype.png "Pype")
+![Pype](pype.png "Pype")
 
 This is a minimal wrapper application for the [yii2-mdpages-module](https://github.com/jacmoe/yii2-mdpages-module) which serves static markdown documents from a separate Git repository.
 
