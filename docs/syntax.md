@@ -12,3 +12,9 @@ In code:
 ```
 (email: someone@example.com)
 ```
+
+(youtube: https://www.youtube.com/watch?v=mSB71jNq-yQ width:640 height:480)
+
+```
+(youtube: https://www.youtube.com/watch?v=mSB71jNq-yQ width:640 height:480)
+```
