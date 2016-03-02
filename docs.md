@@ -1,5 +1,5 @@
 <!--
-Title: Documentation
+Title: Docs
 Description: Entry point for the Pype documentation
 Keywords: pype, documentation, readme
 -->
