@@ -3,5 +3,9 @@ Title: Overview
 Description: Highlevel overview of Pype
 Keywords: pype, overview
 -->
-Overview of Pype..
+
+## Performance
+
+(inimage:Performance source:overview/gtmetrix.png)
+(clearfix:)
 
