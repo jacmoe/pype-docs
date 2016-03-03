@@ -3,12 +3,10 @@ Title: Pype
 Description: Pype stands for Personal Yii Page Engine and serves static markdown documents from a separate Git repository
 Keywords: wiki, yii, pype, markdown, static, flat-file
 -->
-# Pype - Personal Yii Page Engine
-
-
 ![Pype](pype.png "Pype")
 
-This is a minimal wrapper application for the [yii2-mdpages-module](https://github.com/jacmoe/yii2-mdpages-module) which serves static markdown documents from a separate Git repository.
+## Personal Yii Page Engine
+Pype is a minimal wrapper application for the [yii2-mdpages-module](https://github.com/jacmoe/yii2-mdpages-module) which serves static markdown documents from a separate Git repository.
 
 The goal is to create a small, fast and versatile flat-file engine that is suitable for serving blogs, wikis and personal websites.
 
