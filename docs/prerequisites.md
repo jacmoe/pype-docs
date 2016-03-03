@@ -5,10 +5,10 @@ Keywords: pype, prerequisites
 -->
 ## Webhook
 
-(lightbox:Webhook source:install/hook_mobile.png target:install/hook.png)
+(lightbox:Webhook source:prerequisites/hook_mobile.png target:install/hook.png)
 (clearfix:)
 
 ## Github API token
-(lightbox:Github API token source:install/githubtoken_mobile.png target:install/githubtoken.png)
+(lightbox:Github API token source:prerequisites/githubtoken_mobile.png target:install/githubtoken.png)
 (clearfix:)
 
