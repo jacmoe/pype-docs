@@ -11,3 +11,9 @@ Keywords: pype, prerequisites
 ## Github API token
 (lightbox:Github API token source:prerequisites/githubtoken_mobile.png target:prerequisites/githubtoken.png)
 (clearfix:)
+
+## Pype template
+
+```bash
+composer create-project --prefer-dist --stability=dev jacmoe/pype happysite
+```
