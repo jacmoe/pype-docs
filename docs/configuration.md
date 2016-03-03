@@ -53,6 +53,7 @@ dev_1:
             yii: /path/to/yii
 ```
 
+Example of the config file in use:
 ```php
     'modules' => [
         'wiki' => [
