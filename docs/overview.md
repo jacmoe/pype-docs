@@ -6,6 +6,6 @@ Keywords: pype, overview
 
 ## Performance
 
-(inimage:Performance source:overview/gtmetrix.png)
+(inimage:Performance source:overview/gtmetrix_mobile.png)
 (clearfix:)
 
