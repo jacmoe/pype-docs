@@ -8,7 +8,7 @@ Some installation instructions goes here
 
 ## Webhook
 
-(lightbox:Webhook source:install/webhook_mobile.png target:install/webhook.png)
+(lightbox:Webhook source:install/hook_mobile.png target:install/hook.png)
 (clearfix:)
 
 ## Github API token
