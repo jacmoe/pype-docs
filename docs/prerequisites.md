@@ -11,4 +11,3 @@ Keywords: pype, prerequisites
 ## Github API token
 (lightbox:Github API token source:prerequisites/githubtoken_mobile.png target:install/githubtoken.png)
 (clearfix:)
-
