@@ -15,6 +15,8 @@ Easy to upgrade and manage. And can be run either stand-alone or as part of a la
 ### Built with
 Pype is powered by [yii2-mdpages-module](https://github.com/jacmoe/yii2-mdpages-module) which does most of the work.
 
+The excellent Markdown parser [cebe/markdown](http://markdown.cebe.cc/) is responsible for processing the Markdown documents.
+
 [Deployer](http://deployer.org/) is used for deployment, and [Flywheel](https://github.com/jamesmoss/flywheel) is used for temporary storage of processed documents.
 
 And, last - but not least: Pype is built using the [Yii Framework](http://www.yiiframework.com/)
