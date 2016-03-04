@@ -21,3 +21,5 @@ Each theme goes into the `theme` directory at the Pype root.
 
 It does not matter what Yii renderer you are using.  
 Pype's default theme - 'Primer' - uses a Jade renderer, but you can use Smarty, Twig or even plain php.
+
+Because the assets are symlinked into the `asset` directory in your `web` directory, they will update automatically whenever they are changed. Usually as a result of running `gulp build`.
