@@ -17,4 +17,4 @@ Pype is powered by [yii2-mdpages-module](https://github.com/jacmoe/yii2-mdpages-
 
 [Deployer](http://deployer.org/) is used for deployment, and [Flywheel](https://github.com/jamesmoss/flywheel) is used for temporary storage of processed documents.
 
-And, last - but not least: Pype is powered by the [Yii Framework](http://www.yiiframework.com/)
+And, last - but not least: Pype is built using the [Yii Framework](http://www.yiiframework.com/)
