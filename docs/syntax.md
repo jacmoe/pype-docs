@@ -21,3 +21,4 @@ Another utility tag is a clearfix tag:
 (clearfix:)
 ```
 
+Pypetext is inspired by [Kirbytext](https://getkirby.com/docs/advanced/kirbytext)
