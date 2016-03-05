@@ -18,7 +18,12 @@ The more can be done before the page is rendered, the better.
 
 
 ## Performance
-
+Since Pype is not using a database, and because the content it manages is generated beforehand and then cached, it is quite speedy.
 (inimage:Performance source:overview/gtmetrix_mobile.png)
 (clearfix:)
+The performance rating is actually a bit misleading, because without the Gitter chat and the Poser button linked to Packagist, Pagespeed would give a rating of 99%!  
+So, it has more to do with the theme than the actual 'engine'.
 
+In addition to caching, care has been taken to ensure as high a rating as possible.
+
+That means that Pype will calculate the height and width of all images, and create a thumbnail from the Github user avatar and store it locally, to point out some of the things that goes on under the hood.
