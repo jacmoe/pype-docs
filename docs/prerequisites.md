@@ -10,7 +10,18 @@ Node.js with Gulp and Browsersync installed globally, if using the provided Pype
 Like Yii2: Composer with the Composer asset plugin globally installed.
 
 ## Deployer
-[Deployer](http://deployer.org/)
+To install [Deployer](http://deployer.org/) download the Deployer phar archive:
+
+```bash
+http://deployer.org/deployer.phar
+```
+
+Then install it globally:
+
+```bash
+mv deployer.phar /usr/local/bin/dep
+chmod +x /usr/local/bin/dep
+```
 
 ## Github API token
 You need to generate a Github API token.
