@@ -24,7 +24,9 @@ Pype's default theme - 'Primer' - uses a Jade renderer, but you can use Smarty, 
 
 Because the assets are symlinked into the `asset` directory in your `web` directory, they will update automatically whenever they are changed. Usually as a result of running `gulp build`.
 
-## Details
+## Views
+
+(inimage:Views source:themes/views.png)
 
 ### Asset bundle
 
