@@ -27,6 +27,9 @@ Because the assets are symlinked into the `asset` directory in your `web` direct
 ## Views
 
 (inimage:Views source:themes/views.png)
+The image on the left shows one typical way of arranging layouts and views.
+
+(clearfix:)
 
 ### Asset bundle
 
