@@ -6,11 +6,9 @@ Keywords: wiki, yii, pype, markdown, static, flat-file
 ![Pype](pype.png "Pype")
 
 ## Personal Yii Page Engine
-Pype serves static markdown documents from a separate Git repository.
-
 Pype is a small, fast and versatile flat-file engine that is suitable for serving blogs, wikis and personal websites.
 
-Easy to upgrade and manage. And can be run either stand-alone or as part of a larger application.
+Pype can be run either stand-alone or as part of a larger application.
 
 ### Built with
 Pype is powered by [yii2-mdpages-module](https://github.com/jacmoe/yii2-mdpages-module) which does most of the work.
