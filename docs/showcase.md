@@ -5,7 +5,7 @@ Keywords: pype, showcase, projects
 -->
 ## Jacmoes Cyber Soapbox
 
-Personal blog powered by Pype: [Jacmoes Cyber Soapbox](https://jacmoe.dk/)
+Personal blog powered by Pype: [Jacmoes Cyber Soapbox](https://jacmoe.dk/) (Danish mirror: [Den Stammende Kok](https://hjem.jacmoe.dk/)
 
 (lightbox:Jacmoes Cyber Soapbox source:showcase/jacmoes_mobile.png target:showcase/jacmoes.png)
 
