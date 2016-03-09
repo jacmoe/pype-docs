@@ -5,7 +5,7 @@ Keywords: pype, showcase, projects
 -->
 ## Jacmoes Cyber Soapbox
 
-Personal blog powered by Pype:
+Personal blog powered by Pype: [Jacmoes Cyber Soapbox](https://jacmoe.dk/)
 
 (lightbox:Jacmoes Cyber Soapbox source:showcase/jacmoes_mobile.png target:showcase/jacmoes.png)
 
@@ -13,5 +13,4 @@ Personal blog powered by Pype:
 
 Using [Bourbon](http://bourbon.io/) and [Neat](http://neat.bourbon.io/) with Sass, and a Jade renderer powered by [yii-2-tale-jade](https://packagist.org/packages/jacmoe/yii2-tale-jade)
 
-[Jacmoes Cyber Soapbox](https://jacmoe.dk/)
-
+------------
