@@ -1,6 +1,6 @@
 <!--
 Title: Pype
-Description: Pype stands for Personal Yii Page Engine and serves static markdown documents from a separate Git repository
+Description: Pype is a flat file CMS that serves static Markdown documents from a separate Git repository
 Keywords: wiki, yii, pype, markdown, static, flat-file
 -->
 ![Pype](pype.png "Pype")
