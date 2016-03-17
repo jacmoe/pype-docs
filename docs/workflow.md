@@ -23,6 +23,7 @@ followed by a call to your newly added Bash script:
 ```
 ./push_it.sh
 ```
+That will push to the docs repository and call the `mdpages/pages/update` action.
 
 ## Command-line interface
 ```
