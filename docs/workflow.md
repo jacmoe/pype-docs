@@ -3,6 +3,27 @@ Title: Workflow
 Description: An example of Pype in use
 Keywords: pype, workflow
 -->
+
+## General workflow
+
+When you have written a new document, it needs to be committed and pushed to the doc repository before the changes will show up in your local copy of your Pype-powered website.
+
+In order to make it easier to manage, one way of semi-automating that process is to create a small Bash script that you can run after committing your changes.
+
+```
+#! /bin/bash
+git push origin master && /path/to/local/pype/yii mdpages/pages/update
+```
+With that script put into the root of your docs repository, the workflow becomes:
+
+```
+git commit -a -m "Commit message"
+```
+followed by a call to your newly added Bash script:
+```
+./push_it.sh
+```
+
 ## Command-line interface
 ```
 ./yii help mdpages/pages
