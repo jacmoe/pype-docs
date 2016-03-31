@@ -15,8 +15,6 @@ A cookie is a small text file that a website saves onyour computer or mobile dev
 ## How do we use cookies?
 
 A number of our pages use cookies to remember:
-* your display preferences, such as contrast colour settings or font size
-* if you have already replied to a survey pop-up that asks you if the content was helpful or not (so you won't be asked again)
 * if you have agreed (or not) to our use of cookies on this site
 
 Also, some videos embedded in our pages use a cookie to anonymously gather statistics on how you got there and what videos you visited.
