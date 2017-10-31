@@ -10,24 +10,13 @@ When you have written a new document, it needs to be committed and pushed to the
 
 The updating of your Pype site is handled by your Github webhook automatically.
 
-However, on your local machine, you need to first push and then run the `mdpages/pages/update` action before the changes will show up.
+However, on your local machine, you can make use of the following workflow:
 
-In order to make it easier to manage, one way of semi-automating that process is to create a small Bash script that you can run after committing your changes.
+* Use your site's `content` directory for creating/editing pages/posts.
+* Commit your changes to the local `content` repository, but don't commit!
+* Run `yii mdpages/pages/local-update` to update your local site's page database
 
-```
-#! /bin/bash
-git push origin master && /path/to/local/pype/yii mdpages/pages/update
-```
-With that script put into the root of your docs repository, the workflow becomes:
-
-```
-git commit -a -m "Commit message"
-```
-followed by a call to your newly added Bash script:
-```
-./push_it.sh
-```
-That will push to the docs repository and call the `mdpages/pages/update` action for your local copy of your Pype-powered site.
+Of course, to update your real site, push to the remote repository, and the webhook will update it as usual.
 
 
 ## Command-line interface
