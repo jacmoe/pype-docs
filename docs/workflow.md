@@ -13,7 +13,7 @@ The updating of your Pype site is handled by your Github webhook automatically.
 However, on your local machine, you can make use of the following workflow:
 
 * Use your site's `content` directory for creating/editing pages/posts.
-* Commit your changes to the local `content` repository, but don't commit!
+* Commit your changes to the local `content` repository, but don't push!
 * Run `yii mdpages/pages/local-update` to update your local site's page database
 
 Of course, to update your real site, push to the remote repository, and the webhook will update it as usual.
