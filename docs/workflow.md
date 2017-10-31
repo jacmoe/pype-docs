@@ -43,6 +43,13 @@ This command checks if there are changes in the remote and if there are it will 
 ```
 The update command is also what is called automatically by the Github webhook.
 
+### local-update
+This command checks if there are changes that have not yet been pushed to the remote repository and updates the page database:
+```
+./yii mdpages/pages/local-update
+```
+Use this command while writing a page/post, until you're ready to push.
+
 ### rebuild
 The *rebuild* command will trigger a full rebuild of the page database, without modifying the *modified* page field:
 ```
